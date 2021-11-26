@@ -1,0 +1,13 @@
+Role IAM Evaluateur
+
+
+ID de compte: 729133752802
+Nom d'utilisateur : Evaluateur
+Mot de passe: OCprojet#8
+
+Accès à tous les services AWS utilisés pour ce projet.
+
+IAMReadOnlyAccess
+AmazonEC2ReadOnlyAccess
+AmazonEMRReadOnlyAccessPolicy_v2
+AmazonS3ReadOnlyAccess
